@@ -738,6 +738,7 @@ footer {
 }
 
 .checkbox {
+
   width: 16px;
   height: 16px;
   border: 1px solid rgba(46, 47, 66, 0.4);
@@ -750,6 +751,8 @@ footer {
   align-items: center;
   justify-content: center;
   fill: transparent;
+  
+
 }
 
 .checkbox-input:checked + .checkbox-label .checkbox {
@@ -769,6 +772,7 @@ footer {
   text-decoration: underline;
   text-underline-offset: 2px;
 }
+
 
 /* Modal button */
 
